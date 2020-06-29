@@ -18,5 +18,6 @@
     "editNameField": "Default Counter",
     "editNameFieldLabel": "Edit Counter Title:",
     "blackBtn": "['-1', '-2', '-3', '1', '2', '3']"
-  }
+  },
+  "defaultCounterFunctionality": 
 }
