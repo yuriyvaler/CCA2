@@ -98,9 +98,9 @@ describe('Complex Counter App', function () {
             //$$('label')[$$('label').length-1]
             expect(actual).toEqual(true);
         })
-        // it('TC-022 Add Counter', function () {
-        //     const actual = $(selectorGen.addCounterBtn).isDisplayed();
-        //     expect(actual).toEqual(true);
-        // })
+        it('TC-022 Add Counter', function () {
+            const actual = $(selectorGen.addCounterBtn).isDisplayed();
+            expect(actual).toEqual(true);
+        })
     });
 });
